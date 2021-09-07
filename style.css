@@ -1,7 +1,13 @@
 #footer-linkedin{
     margin-right: 10px;
+    text-decoration: none;
 }
 
 #footer-email{
     margin-left: 10px;
+    text-decoration: none;
+}
+
+.link{
+    text-decoration: none;
 }
